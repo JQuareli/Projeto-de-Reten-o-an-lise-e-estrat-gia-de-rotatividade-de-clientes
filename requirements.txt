@@ -1,0 +1,6 @@
+pandas
+pathlib
+seaborn
+matplotlib
+scikit-learn
+scipy
